@@ -1,6 +1,6 @@
 # Next.js template with Tailwind CSS Integration
 
-A simple 2 page Next.js app with an Index and About page, with a shared Navbar component. 
+A simple 2 page Next.js app with an Index and About page, with a shared Navbar component. In the server folder you'll find a simple express server.
 
 Clone the repo:
 1. `git clone "repo"`  
